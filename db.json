@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Pica"  },
+    { "id": 1, "title": "Pizza"  },
     { "id": 2, "title": "Hamburger" },
     { "id": 3, "title": "Chicken salad" },
     { "id": 4, "title": "Pasta salad" },
