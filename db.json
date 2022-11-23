@@ -8,21 +8,13 @@
     { "id": 6, "title": "Burito" },
     { "id": 7, "title": "Chocolate cake" },
     { "id": 8, "title": "Blueberry pie" },
-    { "id": 9, "title": "Ground beef" },
-    { "id": 10, "title": "Lasagna" }
+    { "id": 9, "title": "Ground beef" }
 
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-    { "id": 3, "body": "some comment", "postId": 1 },
-    { "id": 4, "body": "some comment", "postId": 1 },
-    { "id": 5, "body": "some comment", "postId": 1 },
-    { "id": 6, "body": "some comment", "postId": 1 },
-    { "id": 7, "body": "some comment", "postId": 1 },
-    { "id": 8, "body": "some comment", "postId": 1 },
-    { "id": 9, "body": "some comment", "postId": 1 },
-    { "id": 10, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "some comment", "postId": 1 }
+    
 
   ],
   "profile": {
