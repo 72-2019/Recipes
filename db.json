@@ -1,14 +1,14 @@
 {
   "posts": [
     { "id": 1, "title": "Pizza", "image":"https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900"  },
-    { "id": 2, "title": "Hamburger" },
-    { "id": 3, "title": "Chicken salad" },
-    { "id": 4, "title": "Pasta salad" },
-    { "id": 5, "title": "Baked potato soup" },
-    { "id": 6, "title": "Burito" },
-    { "id": 7, "title": "Chocolate cake" },
-    { "id": 8, "title": "Blueberry pie" },
-    { "id": 9, "title": "Ground beef" }
+    { "id": 2, "title": "Hamburger", "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/10/Hamburger-with-Sesame-Seeds-Cheese-and-Veggies.png"},
+    { "id": 3, "title": "Chicken salad", "image": "https://spicecravings.com/wp-content/uploads/2022/05/Strawberry-Spinach-Salad-Featured.jpg" },
+    { "id": 4, "title": "Pasta salad", "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/italian-pasta-salad-14-1200.jpg" },
+    { "id": 5, "title": "Baked potato soup", "image": "https://www.budgetbytes.com/wp-content/uploads/2022/02/Loaded-Potato-Soup-bowl.jpg" },
+    { "id": 6, "title": "Burito", "image": "https://www.kucastil.rs/uploads/ck_editor/images/RECEPTI%20I%20STIL/Burito%20sa%20piletinom%20665x317.jpg" },
+    { "id": 7, "title": "Chocolate cake", "image": "https://www.mybakingaddiction.com/wp-content/uploads/2011/10/lr-0953.jpg" },
+    { "id": 8, "title": "Blueberry pie", "image": "https://www.inspiredtaste.net/wp-content/uploads/2022/07/Easy-Homemade-Blueberry-Pie-2-1200.jpg" },
+    { "id": 9, "title": "Ground beef", "image": "https://cookthestory.com/wp-content/uploads/2019/02/how-to-cook-ground-beef-1392.jpg" }
 
   ],
   "comments": [
