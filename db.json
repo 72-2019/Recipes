@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Pizza", "image":"https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900"  },
-    { "id": 2, "title": "Hamburger", "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/10/Hamburger-with-Sesame-Seeds-Cheese-and-Veggies.png"},
-    { "id": 3, "title": "Chicken salad", "image": "https://spicecravings.com/wp-content/uploads/2022/05/Strawberry-Spinach-Salad-Featured.jpg" },
-    { "id": 4, "title": "Pasta salad", "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/italian-pasta-salad-14-1200.jpg" },
-    { "id": 5, "title": "Baked potato soup", "image": "https://www.budgetbytes.com/wp-content/uploads/2022/02/Loaded-Potato-Soup-bowl.jpg" },
-    { "id": 6, "title": "Burito", "image": "https://www.kucastil.rs/uploads/ck_editor/images/RECEPTI%20I%20STIL/Burito%20sa%20piletinom%20665x317.jpg" },
-    { "id": 7, "title": "Chocolate cake", "image": "https://www.mybakingaddiction.com/wp-content/uploads/2011/10/lr-0953.jpg" },
-    { "id": 8, "title": "Blueberry pie", "image": "https://www.inspiredtaste.net/wp-content/uploads/2022/07/Easy-Homemade-Blueberry-Pie-2-1200.jpg" },
-    { "id": 9, "title": "Ground beef", "image": "https://cookthestory.com/wp-content/uploads/2019/02/how-to-cook-ground-beef-1392.jpg" }
+    { "id": 1, "title": "Pizza", "image":"https://static.toiimg.com/photo/59123476.cms"  },
+    { "id": 2, "title": "Hamburger", "image": "https://assets.epicurious.com/photos/54afdbff2edcf2b411439f66/master/pass/51168400_burger_1x1.jpg"},
+    { "id": 3, "title": "Chicken salad", "image": "https://healthyfitnessmeals.com/wp-content/uploads/2018/03/pomegranate-chicken-salad-square-2.jpg" },
+    { "id": 4, "title": "Pasta salad", "image": "https://static.toiimg.com/thumb/53150445.cms?imgsize=607362&width=800&height=800" },
+    { "id": 5, "title": "Baked potato soup", "image": "https://res.cloudinary.com/hksqkdlah/image/upload/22490_sfs-slow-cooker-loaded-baked-potato-soup-6.jpg" },
+    { "id": 6, "title": "Burito", "image": "https://static.toiimg.com/thumb/53771400.cms?imgsize=467998&width=800&height=800" },
+    { "id": 7, "title": "Chocolate cake", "image": "https://static.toiimg.com/thumb/53096885.cms?imgsize=1572013&width=800&height=800" },
+    { "id": 8, "title": "Blueberry pie", "image": "https://i.pinimg.com/originals/7c/39/ee/7c39ee2ee4018d3dc12cfcfd0a75d0a1.jpg"},
+    { "id": 9, "title": "Ground beef", "image": "https://static.toiimg.com/thumb/59590948.cms?imgsize=762406&width=800&height=800" }
 
   ],
   "comments": [
